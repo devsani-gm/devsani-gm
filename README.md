@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./github_profile_under_1MB.jpg" alt="Sani" width="220"/>
-
 # Hi, I'm Sani 👋
 
 ### Web & Automation Engineer @ GrowMinion LLC
