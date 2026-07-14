@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="./github_profile_under_1MB.jpg" alt="Sani" width="220"/>
+<img src="./github_profile_under_1MB.jpg" alt="Sani" width="100%">
+
 # Hi, I'm Sani 👋
 
 ### Web & Automation Engineer @ GrowMinion LLC
+
+</div>
 
 **Building SaaS Products • SEO Platforms • AI Automation • Modern Web Applications**
 
