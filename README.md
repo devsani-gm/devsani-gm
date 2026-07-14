@@ -1,31 +1,17 @@
 <div align="center">
 
-<img src="./assets/profile.png" alt="Sani" width="180"/>
+<img src="./github_profile_under_1MB.jpg" alt="Sani" width="220"/>
 
 # Hi, I'm Sani 👋
 
 ### Web & Automation Engineer @ GrowMinion LLC
 
-Building **SaaS Products • SEO Platforms • AI Automation • Modern Web Applications**
+**Building SaaS Products • SEO Platforms • AI Automation • Modern Web Applications**
 
-<p>
-<a href="https://www.linkedin.com/in/sani48">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/8801745947359">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/abdulkaiyum.sani.50">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://growminion.com">
-<img src="https://img.shields.io/badge/GrowMinion-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sani48)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801745947359)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdulkaiyum.sani.50)
+[![GrowMinion](https://img.shields.io/badge/GrowMinion-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black)](https://growminion.com)
 
 </div>
 
@@ -35,68 +21,104 @@ Building **SaaS Products • SEO Platforms • AI Automation • Modern Web Appl
 
 I'm **Sani**, a **Web & Automation Engineer** at **GrowMinion LLC**.
 
-I build scalable **SaaS products**, **AI automation systems**, **SEO platforms**, and **modern web applications** that help businesses grow.
+I build scalable SaaS products, AI-powered automation systems, SEO platforms, and modern web applications that solve real business problems.
 
-- 🚀 Building production-ready SaaS applications
-- 🤖 AI & Workflow Automation
-- 📈 SEO Tools & Marketing Platforms
-- 🌐 Full-Stack Web Development
-- ⚡ Always learning and shipping new products
+### 💼 What I Work On
+
+- 🚀 SaaS Product Development
+- 🤖 AI Automation & Workflow Systems
+- 🌐 Modern Web Applications
+- 📈 Local SEO Platforms
+- ⚡ Internal Business Tools
+- 🗺️ Google Maps & Local Search Technologies
 
 ---
 
 # 🚀 Featured Products
 
-## 🏢 GrowMinion
+## 🗺️ RankDominator
 
-| Product | Description |
-|----------|-------------|
-| 🚀 RankDominator | Local SEO Grid Ranking Tracker |
-| ✍️ CraftMinion | AI Content & SEO Writing Platform |
-| ⚡ AlertFlow | Website & Workflow Monitoring Platform |
-| 🤖 Minniyo | AI Lead Intake & Business Automation |
+AI-powered Local SEO GeoGrid Rank Tracker for Google Maps.
 
----
-
-## 💻 Personal Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔥 SaniForge | Developer Productivity Platform |
-| 📦 Keen Keeper | Inventory & Business Management |
-| 🏥 DocAppoint | Healthcare Appointment Platform |
-| 📚 BiblioDrop | Digital Library Management |
-| 🌿 Holistic Harmony | Wellness Platform |
-| 🌐 Sminora | Personal Portfolio |
-| 🏢 Sani Tiles | Business Website |
-
----
-
-# 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,js,ts,html,css,tailwind,git,github,vscode,npm"/>
-
+<p align="center">
+<img src="./screenshots/rankdominator.png" width="100%">
 </p>
 
+### Key Features
+
+- Google Maps GeoGrid Ranking
+- Local Pack Tracking
+- DataForSEO Integration
+- Multi Business Profiles
+- Keyword Tracking
+- Heatmap Visualization
+
 ---
 
-# 📈 GitHub Stats
+## ✍️ CraftMinion
 
-<div align="center">
+AI-powered SEO content generation platform built for agencies and local businesses.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsani-gm&show_icons=true&theme=github_dark&hide_border=true"/>
+<p align="center">
+<img src="./screenshots/craftminion.png" width="100%">
+</p>
 
-<img height="170" src="https://streak-stats.demolab.com?user=devsani-gm&theme=github-dark&hide_border=true"/>
+### Key Features
 
-</div>
+- AI Service Page Writing
+- Blog Generation
+- Competitor Research
+- Meta Optimizer
+- Sitemap Analyzer
+- Strategy Planner
+- SEO Content Workflow
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsani-gm&layout=compact&theme=github_dark&hide_border=true"/>
+## 🔔 AlertFlow
 
-</div>
+Website monitoring & automation platform for real-time notifications.
+
+<p align="center">
+<img src="./screenshots/alertflow.png" width="100%">
+</p>
+
+### Key Features
+
+- Website Monitoring
+- Change Detection
+- Telegram Notifications
+- Email Alerts
+- Dashboard Analytics
+- Client Management
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+### Automation & Tools
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
@@ -104,24 +126,32 @@ I build scalable **SaaS products**, **AI automation systems**, **SEO platforms**
 
 - 🚀 RankDominator
 - ✍️ CraftMinion
-- ⚡ AlertFlow
+- 🔔 AlertFlow
 - 🤖 AI Automation Systems
-- 📊 SEO Platforms
-- 💻 Modern SaaS Products
+- ⚡ SEO Internal Tools
+- 🌍 Modern SaaS Platforms
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/sani48
+<a href="https://www.linkedin.com/in/sani48">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-💬 WhatsApp: https://wa.me/8801745947359
+<a href="https://wa.me/8801745947359">
+<img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
-📘 Facebook: https://www.facebook.com/abdulkaiyum.sani.50
+<a href="https://www.facebook.com/abdulkaiyum.sani.50">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook">
+</a>
 
-🏢 Company: https://growminion.com
+<a href="https://growminion.com">
+<img src="https://img.shields.io/badge/GrowMinion-Website-FFD500?style=for-the-badge&logo=googlechrome&logoColor=black">
+</a>
 
 </p>
 
@@ -129,8 +159,8 @@ I build scalable **SaaS products**, **AI automation systems**, **SEO platforms**
 
 <div align="center">
 
-### 💡 Building software that creates real business impact.
+### Thanks for visiting my profile! 🚀
 
-⭐ Thanks for visiting my profile!
+Building scalable software, automation systems, and SEO products that create real business impact.
 
 </div>
